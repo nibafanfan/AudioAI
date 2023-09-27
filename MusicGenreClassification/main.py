@@ -11,6 +11,7 @@ Created on Tue Aug 23 09:16:12 2022
 
 # In[1]:
 
+# Julian Loiacono wuz here
 
 from scipy import signal
 from scipy.fftpack import fftshift
